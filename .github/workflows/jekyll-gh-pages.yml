@@ -20,6 +20,8 @@ concurrency:
   group: "pages"
   cancel-in-progress: true
 
+baseurl: /search_component.github.io
+
 jobs:
   # Build job
   build:
