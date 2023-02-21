@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/search_component/static/css/main.49e5d94b.css",
-    "main.js": "/search_component/static/js/main.07cf9dac.js",
-    "static/js/787.8477bb02.chunk.js": "/search_component/static/js/787.8477bb02.chunk.js",
-    "static/media/expandArrow.svg": "/search_component/static/media/expandArrow.59bf22b9b941b41f5574.svg",
-    "index.html": "/search_component/index.html",
-    "main.49e5d94b.css.map": "/search_component/static/css/main.49e5d94b.css.map",
-    "main.07cf9dac.js.map": "/search_component/static/js/main.07cf9dac.js.map",
-    "787.8477bb02.chunk.js.map": "/search_component/static/js/787.8477bb02.chunk.js.map"
+    "main.css": "/search_component.github.io/static/css/main.fff7c158.css",
+    "main.js": "/search_component.github.io/static/js/main.4e5790e6.js",
+    "static/js/787.8477bb02.chunk.js": "/search_component.github.io/static/js/787.8477bb02.chunk.js",
+    "index.html": "/search_component.github.io/index.html",
+    "static/media/expandArrow.svg": "/search_component.github.io/static/media/expandArrow.59bf22b9b941b41f5574.svg",
+    "main.fff7c158.css.map": "/search_component.github.io/static/css/main.fff7c158.css.map",
+    "main.4e5790e6.js.map": "/search_component.github.io/static/js/main.4e5790e6.js.map",
+    "787.8477bb02.chunk.js.map": "/search_component.github.io/static/js/787.8477bb02.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.49e5d94b.css",
-    "static/js/main.07cf9dac.js"
+    "static/css/main.fff7c158.css",
+    "static/js/main.4e5790e6.js"
   ]
 }
